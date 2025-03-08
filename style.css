@@ -50,6 +50,7 @@ button{
     height: 40px;
     border-radius: 3px;
     margin-right: 20px;
+    margin-bottom: 20px;
     color: #55F991;
     display: flex;
     align-items: center;
@@ -63,4 +64,5 @@ button{
 
 .container{
     display: flex;
+    flex-wrap: wrap;
 }
