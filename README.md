@@ -14,4 +14,4 @@ A simple web app that generates **random secure passwords** and allows easy copy
 1. Click **"Generate passwords"**.  
 2. Click a password to copy it.  
 
-🔗 **Live View:** ()  
+🔗 **Live View:** ([Password Generator](https://papaya-bombolone-5afa92.netlify.app/))  
